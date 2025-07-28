@@ -123,9 +123,6 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@lekanaleshe-s/feed
-  - name: substack
-    rss_url: https://averybriefmeditationon.substack.com/feed
-
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------
